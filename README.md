@@ -5,7 +5,7 @@ Taylor made, API requests to central banks around the world.
 Coded using just [Swift](https://github.com/apple/swift) for **IOS**.
 Just for fun!
 
-***Note:*** *due to the use of CocoaPods in the project, for now, if you wanna run the project, you should run it using the [Json 3.xcworkspace](https://github.com/seb-salazar/YES-iOS/tree/master/Json%203.xcworkspace) file, and **not** the [Json 3.xcodeproj](https://github.com/seb-salazar/YES-iOS/tree/master/Json%203.xcodeproj)file, otherwise, it will not run*.
+***Note:*** *due to the use of CocoaPods in the project, for now, if you wanna run the project, you should run it using the [Json 3.xcworkspace](https://github.com/seb-salazar/YES-iOS/tree/master/Json%203.xcworkspace) file, and **not** the [Json 3.xcodeproj](https://github.com/seb-salazar/YES-iOS/tree/master/Json%203.xcodeproj) file, otherwise, it will not run*.
 
 **Table of Views**
 * [Main Menu](#1)
