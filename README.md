@@ -7,7 +7,7 @@ Just for fun!
 
 ***Note:*** *due to the use of CocoaPods in the project, for now, if you wanna run the project, you should run it using the [Json 3.xcworkspace](https://github.com/seb-salazar/YES-iOS/tree/master/Json%203.xcworkspace) file, and **not** the [Json 3.xcodeproj](https://github.com/seb-salazar/YES-iOS/tree/master/Json%203.xcodeproj) file, otherwise, it will not run*.
 
-**Table of Views**
+## Table of Views
 * [Main Menu](#1)
 * [Local Values](#2)
 * [Travel Mode - Origin Country](#3)
