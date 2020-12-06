@@ -14,35 +14,35 @@ Just for fun!
 * [Travel Mode - Destination Country](#4)
 * [Travel Mode - Currency Converter](#5)
 
-### Main Menu
+## Main Menu
 <a name="1">
 <p align="center">
     <img src="gitImages/1.png" width="510">
 </p>
 </a>
 
-### Local Values
+## Local Values
 <a name="2">
 <p align="center">
     <img src="gitImages/2.png" width="510">
 </p>
 </a>
 
-### Travel Mode - Origin Country
+## Travel Mode - Origin Country
 <a name="3">
 <p align="center">
     <img src="gitImages/3.png" width="510">
 </p>
 </a>
 
-### Travel Mode - Destination Country
+## Travel Mode - Destination Country
 <a name="4">
 <p align="center">
     <img src="gitImages/4.png" width="510">
 </p>
 </a>
 
-### Travel Mode - Currency Converter
+## Travel Mode - Currency Converter
 <a name="5">
 <p align="center"> 
     <img src="gitImages/5.png" width="510">
