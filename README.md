@@ -5,7 +5,7 @@ Taylor made, API requests to central banks around the world.
 Coded using just [Swift](https://github.com/apple/swift) for **IOS**.
 Just for fun!
 
-***Note:*** *due to the use of CocoaPods in the project, for now, if you wanna run the project, you should run it using the **Json 3.xcworkspace** file, and **not** the **Json 3.xcodeproj** file, otherwise, it will not run*.
+***Note:*** *due to the use of CocoaPods in the project, for now, if you wanna run the project, you should run it using the [Json 3.xcworkspace](https://github.com/seb-salazar/YES-iOS/tree/master/Json%203.xcworkspace) file, and **not** the [Json 3.xcodeproj](https://github.com/seb-salazar/YES-iOS/tree/master/Json%203.xcodeproj)file, otherwise, it will not run*.
 
 **Table of Views**
 * [Main Menu](#1)
@@ -16,26 +16,28 @@ Just for fun!
 
 ### Main Menu
 <a name="1">
-<img src="gitImages/1.png" width="250">
+<img src="gitImages/1.png" width="510">
 </a>
 
 ### Local Values
 <a name="2">
-<img src="gitImages/2.png" width="250">
+<img src="gitImages/2.png" width="510">
 </a>
 
 ### Travel Mode - Origin Country
 <a name="3">
-<img src="gitImages/3.png" width="250">
+<img src="gitImages/3.png" width="510">
 </a>
 
 ### Travel Mode - Destination Country
 <a name="4">
-<img src="gitImages/4.png" width="250">
+<img src="gitImages/4.png" width="510">
 </a>
 
 ### Travel Mode - Currency Converter
 <a name="5">
-<img src="gitImages/5.png">
-<img src="gitImages/6.png" width="250">
+<div> 
+    <img src="gitImages/5.png" width="510">
+    <img src="gitImages/6.png" width="510">
+</div>
 </a>
