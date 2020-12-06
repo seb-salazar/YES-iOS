@@ -16,36 +16,36 @@ Just for fun!
 
 ### Main Menu
 <a name="1">
-<div style="text-align:center"> 
+<p align="center">
     <img src="gitImages/1.png" width="510">
-</div>
+</p>
 </a>
 
 ### Local Values
 <a name="2">
-<div style="text-align:center"> 
+<p align="center">
     <img src="gitImages/2.png" width="510">
-</div>
+</p>
 </a>
 
 ### Travel Mode - Origin Country
 <a name="3">
-<div style="text-align:center"> 
+<p align="center">
     <img src="gitImages/3.png" width="510">
-</div>
+</p>
 </a>
 
 ### Travel Mode - Destination Country
 <a name="4">
-<div style="text-align:center"> 
+<p align="center">
     <img src="gitImages/4.png" width="510">
-</div>
+</p>
 </a>
 
 ### Travel Mode - Currency Converter
 <a name="5">
-<div style="text-align:center"> 
+<p align="center"> 
     <img src="gitImages/5.png" width="510">
     <img src="gitImages/6.png" width="510">
-</div>
+</p>
 </a>
