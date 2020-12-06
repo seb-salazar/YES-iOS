@@ -1,6 +1,6 @@
-#&yen;&euro;$\*  - *Currency Converter*
-\*Originally named *Json3*
-##A simple, yet stylish currency converter. 
+# &yen;&euro;$\*  - *Currency Converter*
+##### \*Originally named *Json3*
+#### A simple, yet stylish currency converter. 
 Taylor made, API requests to central banks around the world.
 Coded using just [Swift](https://github.com/apple/swift) for **IOS**.
 Just for fun!
@@ -14,28 +14,28 @@ Just for fun!
 * [Travel Mode - Destination Country](#4)
 * [Travel Mode - Currency Converter](#5)
 
+### Main Menu
 <a name="1">
-## Main Menu
-<img src="gitImages/1.png" width="120">
+<img src="gitImages/1.png" width="250">
 </a>
 
+### Local Values
 <a name="2">
-## Local Values
-<img src="gitImages/2.png" width="120">
+<img src="gitImages/2.png" width="250">
 </a>
 
+### Travel Mode - Origin Country
 <a name="3">
-## Travel Mode - Origin Country
-<img src="gitImages/3.png" width="120">
+<img src="gitImages/3.png" width="250">
 </a>
 
+### Travel Mode - Destination Country
 <a name="4">
-## Travel Mode - Destination Country
-<img src="gitImages/4.png" width="120">
+<img src="gitImages/4.png" width="250">
 </a>
 
+### Travel Mode - Currency Converter
 <a name="5">
-## Travel Mode - Currency Converter
 <img src="gitImages/5.png">
-<img src="gitImages/6.png" width="120">
+<img src="gitImages/6.png" width="250">
 </a>
