@@ -1,0 +1,20 @@
+PODS:
+  - CheatyXML (2.2.0)
+  - SwiftyJSON (4.2.0)
+
+DEPENDENCIES:
+  - CheatyXML
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CheatyXML
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  CheatyXML: f4a83530e8fb916e792d4153c91a62fc29a75a64
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+
+PODFILE CHECKSUM: 1ff855ae28df3e497fc1e788c7c6301b8f868be0
+
+COCOAPODS: 1.6.0
